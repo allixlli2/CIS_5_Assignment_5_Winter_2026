@@ -21,7 +21,7 @@ void highestGrade(Student students[], int count);
 void lowestGrade(Student students[], int count);
 void averageGrade(Student students[], int count);
 void printStudentId(Student students[], int count);
-void printStudentname(Student students[], int count);
+void printStudentName(Student students[], int count);
 
 int main() {
 	Student students[MAX_STUDENTS];
@@ -64,7 +64,7 @@ int main() {
 			printStudentId(students, count);
 			break;
 		case 5:
-			printStudentname(students, count);
+			printStudentName(students, count);
 			break;
 		case 6:
 			cout << "Goodbye!\n";
@@ -115,7 +115,7 @@ void printStudentId(Student students[], int count)
 {
 	// TODO: Print out all the students id in the array
 }
-void printStudentname(Student students[], int count)
+void printStudentName(Student students[], int count)
 {
 	// TODO: Print out all the students name in the array
 }
