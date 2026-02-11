@@ -25,4 +25,4 @@ Deliverable:
 Reminder: 
 I am not only grading for completion but for understanding as well, if you are unable to explain what your code does, even if you have a working solution, I won't be able to give you full points / assumed you just used AI to comeplete the assignment for you. 
 
-youtube.com//
+youtube.com//https://youtube.com/shorts/zKY1QfvBs0M?si=ts88bUKn_cyEokcx
